@@ -1,4 +1,4 @@
-## Hi there 👋
+[![yabejani's 42 stats](https://badge.mediaplus.ma/greenbinary/yabejani)](https://github.com/oakoudad/badge42)
 
 <!--
 **yannbjn/yannbjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
